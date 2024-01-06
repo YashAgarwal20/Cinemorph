@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Cinemorph/static/css/main.ca99adbd.css",
+    "main.js": "/Cinemorph/static/js/main.d8aaea1a.js",
+    "index.html": "/Cinemorph/index.html",
+    "main.ca99adbd.css.map": "/Cinemorph/static/css/main.ca99adbd.css.map",
+    "main.d8aaea1a.js.map": "/Cinemorph/static/js/main.d8aaea1a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca99adbd.css",
+    "static/js/main.d8aaea1a.js"
+  ]
+}
